@@ -1,2 +1,2 @@
 # osx-configurations
-Easy install system configuration scripts for OSx
+Easy setup of system configurations for OSx
