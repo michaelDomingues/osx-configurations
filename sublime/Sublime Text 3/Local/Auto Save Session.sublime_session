@@ -1,0 +1,1849 @@
+{
+	"folder_history":
+	[
+		"/Users/michaeldomingues/git",
+		"/Users/michaeldomingues/git/e2e-automation"
+	],
+	"last_version": 3126,
+	"last_window_id": 27,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 851.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"respo",
+						"responseText"
+					],
+					[
+						"store",
+						"storageReportDataAvailable"
+					],
+					[
+						"suite",
+						"suiteName"
+					],
+					[
+						"to",
+						"toLowerCase"
+					],
+					[
+						"bro",
+						"browser"
+					],
+					[
+						"ste",
+						"stateLowered"
+					],
+					[
+						"test",
+						"testCaseState"
+					],
+					[
+						"row",
+						"rowData"
+					],
+					[
+						"data",
+						"datatables"
+					],
+					[
+						"col",
+						"columns"
+					],
+					[
+						"state",
+						"stateLC"
+					],
+					[
+						"lo",
+						"toLowerCase"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"tests",
+						"testsPerBrowser"
+					],
+					[
+						"reopr",
+						"reportData"
+					],
+					[
+						"br",
+						"browserData"
+					],
+					[
+						"brow",
+						"browserTest"
+					],
+					[
+						"colo",
+						"colors"
+					],
+					[
+						"fail",
+						"failedTests"
+					],
+					[
+						"pass",
+						"passedTests"
+					],
+					[
+						"report",
+						"reportData"
+					],
+					[
+						"chart",
+						"chartData"
+					],
+					[
+						"ge",
+						"generateFinalReport"
+					],
+					[
+						"numer",
+						"numberOfFailedTests"
+					],
+					[
+						"number",
+						"numberOfFailedTests"
+					],
+					[
+						"num",
+						"numberOfSkippedTests"
+					],
+					[
+						"nu",
+						"numberOfTestSuites"
+					],
+					[
+						"fi",
+						"fileContent"
+					],
+					[
+						"sta",
+						"stateLowered"
+					],
+					[
+						"parse",
+						"parseJSON"
+					],
+					[
+						"sui",
+						"suiteName"
+					],
+					[
+						"tes",
+						"testsPerBrowser"
+					],
+					[
+						"in",
+						"insightsCompany"
+					],
+					[
+						"res",
+						"resolve"
+					],
+					[
+						"over",
+						"overlay"
+					],
+					[
+						"insi",
+						"insights"
+					],
+					[
+						"trend",
+						"trendAnalysis"
+					],
+					[
+						"coun",
+						"countryDropdownEntry"
+					],
+					[
+						"side",
+						"sideMenu"
+					],
+					[
+						"alert",
+						"alertMessage"
+					],
+					[
+						"compe",
+						"competitorsSearch"
+					],
+					[
+						"is",
+						"isVisible"
+					],
+					[
+						"com",
+						"companySet"
+					],
+					[
+						"my",
+						"myKununuPOSections"
+					],
+					[
+						"body",
+						"bodySections"
+					],
+					[
+						"fu",
+						"fullPathToElement"
+					],
+					[
+						"ac",
+						"activeCountry"
+					],
+					[
+						"co",
+						"commands"
+					],
+					[
+						"element",
+						"elementSelector"
+					],
+					[
+						"sideMen",
+						"sideMenu"
+					],
+					[
+						"elements",
+						"basicProfileElements"
+					],
+					[
+						"file",
+						"fileContents"
+					],
+					[
+						"fil",
+						"filePath"
+					],
+					[
+						"jso",
+						"jsonContent"
+					],
+					[
+						"json",
+						"jsonFile"
+					],
+					[
+						"err",
+						"errorMessageClean"
+					],
+					[
+						"repor",
+						"reportsPath"
+					],
+					[
+						"sql",
+						"sqlBuilder"
+					],
+					[
+						"qu",
+						"queries"
+					],
+					[
+						"get",
+						"getAttribute"
+					],
+					[
+						"cou",
+						"countrySelectorByTag"
+					],
+					[
+						"country",
+						"countryTag"
+					],
+					[
+						"exp",
+						"expectedCountryLanguages"
+					],
+					[
+						"c",
+						"country"
+					],
+					[
+						"countr",
+						"countriesCodes"
+					],
+					[
+						"l",
+						"log"
+					],
+					[
+						"le",
+						"leafVal"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"drop",
+						"dropdrownValues"
+					],
+					[
+						"en",
+						"endPagination"
+					],
+					[
+						"pa",
+						"paginationFinish"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"clas",
+						"classValue"
+					],
+					[
+						"end",
+						"endPagination"
+					],
+					[
+						"cla",
+						"classValue"
+					],
+					[
+						"DR",
+						"DROP_DOWN_VALUES"
+					],
+					[
+						"selec",
+						"selectorToClick"
+					],
+					[
+						"ele",
+						"elementIdClick"
+					],
+					[
+						"n",
+						"nth-child"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"package inst",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"html bea",
+						"HTMLBeautify"
+					],
+					[
+						"package in",
+						"Package Control: Install Package"
+					],
+					[
+						"paka",
+						"Package Control: Install Package"
+					],
+					[
+						"htm",
+						"HTMLBeautify"
+					],
+					[
+						"view",
+						"View In Browser"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"json",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
+						"package re",
+						"Package Control: Remove Package"
+					],
+					[
+						"packagein",
+						"Package Control: Install Package"
+					],
+					[
+						"JSON",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"be",
+						"Javascript Beautify"
+					],
+					[
+						"git diff",
+						"Git: Diff Current File"
+					],
+					[
+						"renae",
+						"File: Rename"
+					],
+					[
+						"package i",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"jbea",
+						"Javascript Beautify"
+					],
+					[
+						"bea",
+						"Javascript Beautify"
+					],
+					[
+						"\\",
+						"Snippet: #!/usr/bin/env"
+					],
+					[
+						"java",
+						"Javascript Beautify"
+					],
+					[
+						"sub",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"es",
+						"ESLint"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"indent",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"packa remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"beau",
+						"Javascript Beautify"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"pak",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/michaeldomingues/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/michaeldomingues/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/michaeldomingues/Downloads/logo.svg",
+				"/Users/michaeldomingues/Library/Application Support/Sublime Text 3/Packages/User/JavascriptBeautify.sublime-settings",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/bower.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/metriquer.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/results_parser.js",
+				"/Users/michaeldomingues/git/skycons/index.html",
+				"/Users/michaeldomingues/git/skycons/skycons.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/sidemenu.html",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/js/utilities/utils.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/src/scss/custom.scss",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/index.html",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/defects.html",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/stats_header.html",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/final-report/report.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/report-results/WDIO.json.safari.2b.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/report-results/WDIO.json.firefox.0b.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/report-results/WDIO.json.safari.2a.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/report-results/WDIO.json.firefox.0a.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/report-results/WDIO.json.chrome.1b.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/report-results/WDIO.json.chrome.1a.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/footer.html",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/confs.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/gulpfile.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/tables_dynamic.html",
+				"/Users/michaeldomingues/Library/Application Support/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/js/datepicker/daterangepicker.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/js/moment/moment-timezone-with-data.min.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/js/moment/moment.min.js",
+				"/Users/michaeldomingues/git/kununu.com/admin/admin/js/tiny_mce/themes/advanced/skins/default/dialog.css",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/confs.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/package.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/README.md",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/conf.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/index.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/sample_reports",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/sample_reports/report1.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/sample_reports/report2.json",
+				"/Users/michaeldomingues/.ssh/config",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/myKununuPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/userProfileOwnerSpec.js",
+				"/Users/michaeldomingues/Desktop/376977\tSears\tUS\tFort Collins\tOther industries\t1",
+				"/Users/michaeldomingues/Desktop/289593\tJC Penney\tUS\tTexas\tPlano\tOther industries\t5",
+				"/Users/michaeldomingues/git/e2e-automation/conf/environment/preview.js",
+				"/Users/michaeldomingues/git/e2e-automation/conf/statics.js",
+				"/Users/michaeldomingues/Downloads/device-enforcement-0001-of-0001.json",
+				"/Users/michaeldomingues/git/kununu.com/library/ThirdParty/excel_class/class.writeexcel_worksheet.inc.php",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/insightsSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/insightsPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-basics/pageBasics.js",
+				"/Users/michaeldomingues/git/e2e-automation/conf/base.js",
+				"/Users/michaeldomingues/git/devops/privileged-docker/subdockers/mysql-dev-docker/mysql-create-dev-dump.sh",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/employerBrandingProfileProfessionalPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/custom-commands/performActionOnSubElement.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/custom-commands/getMultipleElementsData.js",
+				"/Users/michaeldomingues/git/devops/privileged-docker/subdockers/mysql-dev-docker/db/dump.sql",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/visibilitySpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/visibilityPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/utils/selectorBuilder.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/homePage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/utils.js",
+				"/Users/michaeldomingues/Desktop/bq_kununu_2016_applicants.csv",
+				"/Users/michaeldomingues/git/e2e-automation/specs/landing-page/countrySwitcherSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/userStandardUserSpec.js",
+				"/Users/michaeldomingues/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+				"/Users/michaeldomingues/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/michaeldomingues/git/e2e-automation/.eslintrc",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/loginPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/loginWithXingSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/myKununuProfileOwnerPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/userSUSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/userKASpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/userPOSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/contactDACHPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/routesTranslationSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/data-quality-automation/utils/conf.json",
+				"/Users/michaeldomingues/git/e2e-automation/data-quality-automation/README.md",
+				"/Users/michaeldomingues/git/e2e-automation/data-quality-automation/sqler/sqlHandler.js",
+				"/Users/michaeldomingues/git/e2e-automation/data-quality-automation/sqler/connector.js",
+				"/Users/michaeldomingues/git/e2e-automation/data-quality-automation/utils/logger.js",
+				"/Users/michaeldomingues/git/e2e-automation/data-quality-automation/package.json",
+				"/Users/michaeldomingues/git/e2e-automation/specs/demoSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/sitemapPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/package.json",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/myKununuPOPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/userAuthenticationSpec.js",
+				"/Users/michaeldomingues/git/data-quality/sqler/connector.js",
+				"/Users/michaeldomingues/git/data-quality/sqler/sqlHandler.js",
+				"/Users/michaeldomingues/git/data-quality/index.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/company-profile/ebp-pro/validateEbpProSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/employerBrandingProfilePage.js",
+				"/Users/michaeldomingues/git/dynamodb-odm/src/Mapping/Driver/XmlSchema.xsd",
+				"/Users/michaeldomingues/git/dynamodb-odm/DataSamples/sample.xml",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/myKununuLoggedUserPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/company-profile/all-profiles/subscribeToCompanySpec.js",
+				"/Users/michaeldomingues/git/wdio_sample/confs/wdio.conf.js",
+				"/Users/michaeldomingues/git/wdio_sample/package.json",
+				"/Users/michaeldomingues/git/wdio_sample/specs/sample.js",
+				"/Users/michaeldomingues/git/wdio_sample/utils/utils.js",
+				"/Users/michaeldomingues/git/wdio_sample/makefile",
+				"/Users/michaeldomingues/git/wdio_sample/spec/sample.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/partnerJSONPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-basics/companyProfileBasics.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/miniPartnerIFramePage.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/company-profile/all-profiles/companyReviewsSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/company-profile/all-profiles/reviewCompanySpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/company-profile/ebp/validateEbpSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/company-profile/non-paid-profile/validateNonPaidProfileSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/competitorsSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/nonPaidProfilePage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/reviewPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/companyHashPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/companyReviewsPage.js",
+				"/Users/michaeldomingues/git/data-quality/utils/logger.js",
+				"/Users/michaeldomingues/git/data-quality/test/caller.js",
+				"/Users/michaeldomingues/git/data-quality/gulpfile.js",
+				"/Users/michaeldomingues/git/data-quality/.eslintrc",
+				"/Users/michaeldomingues/git/data-quality/package.json",
+				"/Users/michaeldomingues/git/data-quality/utils/utils.js",
+				"/Users/michaeldomingues/git/data-quality/utils/errors.js",
+				"/Users/michaeldomingues/git/data-quality/confs/mocha.opts",
+				"/Users/michaeldomingues/git/data-quality/reports/warnings.json",
+				"/Users/michaeldomingues/git/e2e-automation/specs/company-profile/all-profiles/usePartnerIFrameSpec.js",
+				"/Users/michaeldomingues/git/seo-crawler/SC_crawl_errors_v2.py",
+				"/Users/michaeldomingues/git/data-quality/utils/conf.json",
+				"/Users/michaeldomingues/git/data-quality/utils/sqlBuilder.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/partnerSpec.js"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 132.0,
+				"where_history":
+				[
+					"<project>",
+					"/Users/michaeldomingues/git/e2e-automation"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"flot",
+					"generateFinalReport",
+					"WIND_PATHS",
+					"STORM(",
+					"storm(",
+					"sorting",
+					"sorting_desc",
+					"opacity: 0.5",
+					"table.dataTable",
+					"dataTable",
+					"0.5",
+					"opacity:",
+					"and",
+					"nav-md",
+					"-collapse",
+					".nav-sm .container.body .col-md-3.left_col",
+					"nav-sm",
+					".nav-md",
+					".nav",
+					".nav.toggle",
+					"wrapper",
+					".left_col",
+					"scroll-view",
+					".left_col.scroll-view",
+					"both",
+					":after",
+					".nav:after",
+					".nav::after",
+					".nav-sm .container.body",
+					".nav-sm",
+					".col-md-3.left_col",
+					"//",
+					".col-md-3.left_col",
+					".nav-sm .container.body .col-md-3.left_col",
+					".nav-md .container.body .col-md-3.left_col",
+					"media",
+					".nav-sm .container.body .col-md-3.left_col",
+					"  .nav-sm .container.body .col-md-3.left_col",
+					"media",
+					"click",
+					".nav-md .container.body .col-md-3.left_col",
+					".nav-sm .container.body .col-md-3.left_col",
+					".nav-md .container.body .col-md-3.left_col",
+					".nav-sm .container.body .col-md-3.left_col",
+					".col-sm-3.left_col",
+					".nav-md .container.body .col-md-3.left_col",
+					".nav-sm .container.body .col-md-3.left_col",
+					".nav-md .container.body",
+					".nav-sm .container.body",
+					".nav-md .container.body",
+					".nav-md .",
+					".nav-sm .",
+					".col-sm-3.left_col",
+					".col-md-3.left_col",
+					".col-md-3 .left_col",
+					".toggle",
+					".toggle{",
+					".nav {",
+					".nav",
+					"toggle",
+					".toggled",
+					"toggle",
+					"menu_toggle",
+					"toggle",
+					".nav-md",
+					".nav",
+					".nav ",
+					".nav .toggle",
+					".toggle",
+					"toggle",
+					"onclick",
+					".fa",
+					"a {",
+					"a{",
+					"fa-bars",
+					"fa fa-bars",
+					"menu_toggle",
+					"nav-md",
+					"nav-sm",
+					"menu_toggle",
+					".nav:after",
+					".nav-sm .container.body .col-md-3.left_col",
+					".nav-md .container.body .col-md-3.left_col",
+					":after",
+					".nav",
+					".nav::after",
+					"menu_toggle",
+					".col-md-3.left_col",
+					"left_col",
+					".col-md-3.left_col",
+					"display: none",
+					"992px",
+					"768px",
+					"media",
+					"992",
+					"px",
+					"992px",
+					"left_col",
+					"992",
+					"768",
+					"tile_stats_count",
+					"Average",
+					"body {",
+					"body",
+					"13px",
+					"menu_section",
+					"menu_section:before",
+					"before",
+					"side-menu:before",
+					"before",
+					"side-menu",
+					".nav side-menu",
+					"nav side-menu",
+					"#NorteShopping > #Shopping",
+					"#Store",
+					"#Movvo",
+					"#Store",
+					"#ABC",
+					"#Store",
+					"#Movvo",
+					"#NorteShopping",
+					"#Shopping",
+					"Shopping",
+					"Store",
+					"Movvo",
+					">",
+					"getReportData",
+					"sidemenu"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 136.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 136.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"contactintermediatepage.js",
+						"e2e-automation/helpers/page-objects/contactIntermediatePage.js"
+					],
+					[
+						"contact",
+						"e2e-automation/helpers/page-objects/contactFormPage.js"
+					],
+					[
+						"infocontactformspec.js",
+						"e2e-automation/specs/contact/infoContactFormSpec.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 255.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1440.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"respo",
+						"responseText"
+					],
+					[
+						"store",
+						"storageReportDataAvailable"
+					],
+					[
+						"suite",
+						"suiteName"
+					],
+					[
+						"to",
+						"toLowerCase"
+					],
+					[
+						"bro",
+						"browser"
+					],
+					[
+						"ste",
+						"stateLowered"
+					],
+					[
+						"test",
+						"testCaseState"
+					],
+					[
+						"row",
+						"rowData"
+					],
+					[
+						"data",
+						"datatables"
+					],
+					[
+						"col",
+						"columns"
+					],
+					[
+						"state",
+						"stateLC"
+					],
+					[
+						"lo",
+						"toLowerCase"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"tests",
+						"testsPerBrowser"
+					],
+					[
+						"reopr",
+						"reportData"
+					],
+					[
+						"br",
+						"browserData"
+					],
+					[
+						"brow",
+						"browserTest"
+					],
+					[
+						"colo",
+						"colors"
+					],
+					[
+						"fail",
+						"failedTests"
+					],
+					[
+						"pass",
+						"passedTests"
+					],
+					[
+						"report",
+						"reportData"
+					],
+					[
+						"chart",
+						"chartData"
+					],
+					[
+						"ge",
+						"generateFinalReport"
+					],
+					[
+						"numer",
+						"numberOfFailedTests"
+					],
+					[
+						"number",
+						"numberOfFailedTests"
+					],
+					[
+						"num",
+						"numberOfSkippedTests"
+					],
+					[
+						"nu",
+						"numberOfTestSuites"
+					],
+					[
+						"fi",
+						"fileContent"
+					],
+					[
+						"sta",
+						"stateLowered"
+					],
+					[
+						"parse",
+						"parseJSON"
+					],
+					[
+						"sui",
+						"suiteName"
+					],
+					[
+						"tes",
+						"testsPerBrowser"
+					],
+					[
+						"in",
+						"insightsCompany"
+					],
+					[
+						"res",
+						"resolve"
+					],
+					[
+						"over",
+						"overlay"
+					],
+					[
+						"insi",
+						"insights"
+					],
+					[
+						"trend",
+						"trendAnalysis"
+					],
+					[
+						"coun",
+						"countryDropdownEntry"
+					],
+					[
+						"side",
+						"sideMenu"
+					],
+					[
+						"alert",
+						"alertMessage"
+					],
+					[
+						"compe",
+						"competitorsSearch"
+					],
+					[
+						"is",
+						"isVisible"
+					],
+					[
+						"com",
+						"companySet"
+					],
+					[
+						"my",
+						"myKununuPOSections"
+					],
+					[
+						"body",
+						"bodySections"
+					],
+					[
+						"fu",
+						"fullPathToElement"
+					],
+					[
+						"ac",
+						"activeCountry"
+					],
+					[
+						"co",
+						"commands"
+					],
+					[
+						"element",
+						"elementSelector"
+					],
+					[
+						"sideMen",
+						"sideMenu"
+					],
+					[
+						"elements",
+						"basicProfileElements"
+					],
+					[
+						"file",
+						"fileContents"
+					],
+					[
+						"fil",
+						"filePath"
+					],
+					[
+						"jso",
+						"jsonContent"
+					],
+					[
+						"json",
+						"jsonFile"
+					],
+					[
+						"err",
+						"errorMessageClean"
+					],
+					[
+						"repor",
+						"reportsPath"
+					],
+					[
+						"sql",
+						"sqlBuilder"
+					],
+					[
+						"qu",
+						"queries"
+					],
+					[
+						"get",
+						"getAttribute"
+					],
+					[
+						"cou",
+						"countrySelectorByTag"
+					],
+					[
+						"country",
+						"countryTag"
+					],
+					[
+						"exp",
+						"expectedCountryLanguages"
+					],
+					[
+						"c",
+						"country"
+					],
+					[
+						"countr",
+						"countriesCodes"
+					],
+					[
+						"l",
+						"log"
+					],
+					[
+						"le",
+						"leafVal"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"drop",
+						"dropdrownValues"
+					],
+					[
+						"en",
+						"endPagination"
+					],
+					[
+						"pa",
+						"paginationFinish"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"clas",
+						"classValue"
+					],
+					[
+						"end",
+						"endPagination"
+					],
+					[
+						"cla",
+						"classValue"
+					],
+					[
+						"DR",
+						"DROP_DOWN_VALUES"
+					],
+					[
+						"selec",
+						"selectorToClick"
+					],
+					[
+						"ele",
+						"elementIdClick"
+					],
+					[
+						"n",
+						"nth-child"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "Package Control Messages\n========================\n\nGitGutter\n---------\n\n  1.7.5:\n  ------\n  \n     A N N O U N C E M E N T\n  \n    In manner of consistency all functions are now available via\n  \n     * command pallet\n     * main menu\n     * key bindings\n  \n    The command pallet is probably the best and most quickly available cheat\n    sheet for key bindings which is the reason to add all commands there.\n  \n    The following main menu entries are available:\n  \n       Edit\n        +- Revert Change to Commit             (ctrl+shift+alt+z)\n        +- Copy Content from Commit            (ctrl+shift+c)\n  \n       View\n        +- GitGutter\n           +- Enable\n           +- Show Diff Popup                  (ctrl+shift+alt+c, ctrl+d)\n           +- ...\n  \n       Goto\n        +- Goto Previous Git Difference        (ctrl+shift+alt+k)\n        +- Goto Next Git Difference            (ctrl+shift+alt+j)\n  \n       Preferences\n        +- Package Settings\n           +- GitGutter\n              +- ...\n  \n    ---------------------------------------------------------------------------\n  \n     N O T E\n  \n    The command \"GitGutter: Enable/Disable\" was added to provide the opportunity\n    to disable GitGutter for single views.\n  \n    As this command uses ST's \"toggle_setting\" the setting \"enable\"\n    in GitGutter.sublime-settings moved to Preferences.sublime-settings.\n  \n    If you need to disable GitGutter globally, you'll need to do that by adding\n  \n       \"git_gutter_enable\": false\n  \n    to the Preferences.sublime-settings. \n  \n    This setting works in Project settings as well.\n  \n    ---------------------------------------------------------------------------\n  \n     C H A N G E L O G\n  \n    Enhancement:\n     - Add a text command with key binding to revert changes\n     - Add a text command with key binding to copy content from commit\n     - Add main menu entry/command pallet entry/key binding for all commands\n     - Toggle GitGutter via main menu and command pallet\n     - Flatten the 'Compare against' main menu structure\n  \n    Fix:\n     - Compare against Origin uses @{upstream} (Issue #371)\n     - Compare against… panels don't show immediately. (#446)\n  \n    README:\n     - Update Compare against paragraph\n     - Add Goto/Copy/Revert Change\n  \n  \n  💛 Git Gutter? Want to support development?\n  \n  I've teamed up with Wes Bos to offer the following discounts:\n  \n  +------------------------------------------------+\n  |                                                |\n  |   Use the coupon code GITGUTTER for $10 off    |\n  |                                                |\n  +------------------------------------------------+\n  \n  🏅 ⭐ ES6 ⭐\n  \n  👉 ES6.io/friend/GITGUTTER\n  \n  🏅 ⭐ Sublime Text Book ⭐\n  \n  👉 SublimeTextBook.com/friend/GITGUTTER\n  \n  🏅 ⭐ React For Beginners ⭐\n  \n  👉 ReactForBeginners.com/friend/GITGUTTER\n  \n  \n  Join 15,000 other developers already learning with Wes Bos.\n  \n  These are fantastic resources - 100% money back guarantee! 🌟\n",
+					"settings":
+					{
+						"buffer_size": 2976,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"package inst",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"html bea",
+						"HTMLBeautify"
+					],
+					[
+						"package in",
+						"Package Control: Install Package"
+					],
+					[
+						"paka",
+						"Package Control: Install Package"
+					],
+					[
+						"htm",
+						"HTMLBeautify"
+					],
+					[
+						"view",
+						"View In Browser"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"json",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
+						"package re",
+						"Package Control: Remove Package"
+					],
+					[
+						"packagein",
+						"Package Control: Install Package"
+					],
+					[
+						"JSON",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"be",
+						"Javascript Beautify"
+					],
+					[
+						"git diff",
+						"Git: Diff Current File"
+					],
+					[
+						"renae",
+						"File: Rename"
+					],
+					[
+						"package i",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"jbea",
+						"Javascript Beautify"
+					],
+					[
+						"bea",
+						"Javascript Beautify"
+					],
+					[
+						"\\",
+						"Snippet: #!/usr/bin/env"
+					],
+					[
+						"java",
+						"Javascript Beautify"
+					],
+					[
+						"sub",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"es",
+						"ESLint"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"indent",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"packa remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"beau",
+						"Javascript Beautify"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"pak",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/michaeldomingues/git",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard"
+			],
+			"file_history":
+			[
+				"/Users/michaeldomingues/git/blue-wildebeest/user-files/simulations/requests/users/UsersService.scala",
+				"/Users/michaeldomingues/Desktop/blue-wildebeest/Dockerfile",
+				"/Users/michaeldomingues/Desktop/coinbase.py",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/Makefile",
+				"/Users/michaeldomingues/Desktop/kununu_keypass",
+				"/Users/michaeldomingues/Library/Application Support/Sublime Text 3/Packages/User/JavascriptBeautify.sublime-settings",
+				"/Users/michaeldomingues/Downloads/logo.svg",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/bower.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/metriquer.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/results_parser.js",
+				"/Users/michaeldomingues/git/skycons/index.html",
+				"/Users/michaeldomingues/git/skycons/skycons.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/sidemenu.html",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/js/utilities/utils.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/src/scss/custom.scss",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/index.html",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/defects.html",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/stats_header.html",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/final-report/report.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/report-results/WDIO.json.safari.2b.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/report-results/WDIO.json.firefox.0b.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/report-results/WDIO.json.safari.2a.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/report-results/WDIO.json.firefox.0a.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/report-results/WDIO.json.chrome.1b.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/report-results/WDIO.json.chrome.1a.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/footer.html",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/confs.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/gulpfile.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/tables_dynamic.html",
+				"/Users/michaeldomingues/Library/Application Support/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/js/datepicker/daterangepicker.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/js/moment/moment-timezone-with-data.min.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/production/js/moment/moment.min.js",
+				"/Users/michaeldomingues/git/kununu.com/admin/admin/js/tiny_mce/themes/advanced/skins/default/dialog.css",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/confs.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/package.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/README.md",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/conf.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/index.js",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/sample_reports",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/sample_reports/report1.json",
+				"/Users/michaeldomingues/git/wdio-reports-dashboard/sample_reports/report2.json",
+				"/Users/michaeldomingues/.ssh/config",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/myKununuPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/userProfileOwnerSpec.js",
+				"/Users/michaeldomingues/Desktop/376977\tSears\tUS\tFort Collins\tOther industries\t1",
+				"/Users/michaeldomingues/Desktop/289593\tJC Penney\tUS\tTexas\tPlano\tOther industries\t5",
+				"/Users/michaeldomingues/git/e2e-automation/conf/environment/preview.js",
+				"/Users/michaeldomingues/git/e2e-automation/conf/statics.js",
+				"/Users/michaeldomingues/Downloads/device-enforcement-0001-of-0001.json",
+				"/Users/michaeldomingues/git/kununu.com/library/ThirdParty/excel_class/class.writeexcel_worksheet.inc.php",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/insightsSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/insightsPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-basics/pageBasics.js",
+				"/Users/michaeldomingues/git/e2e-automation/conf/base.js",
+				"/Users/michaeldomingues/git/devops/privileged-docker/subdockers/mysql-dev-docker/mysql-create-dev-dump.sh",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/employerBrandingProfileProfessionalPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/custom-commands/performActionOnSubElement.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/custom-commands/getMultipleElementsData.js",
+				"/Users/michaeldomingues/git/devops/privileged-docker/subdockers/mysql-dev-docker/db/dump.sql",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/visibilitySpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/visibilityPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/utils/selectorBuilder.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/homePage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/utils.js",
+				"/Users/michaeldomingues/Desktop/bq_kununu_2016_applicants.csv",
+				"/Users/michaeldomingues/git/e2e-automation/specs/landing-page/countrySwitcherSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/userStandardUserSpec.js",
+				"/Users/michaeldomingues/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+				"/Users/michaeldomingues/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/michaeldomingues/git/e2e-automation/.eslintrc",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/loginPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/loginWithXingSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/myKununuProfileOwnerPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/userSUSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/userKASpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/userPOSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/contactDACHPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/routesTranslationSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/data-quality-automation/utils/conf.json",
+				"/Users/michaeldomingues/git/e2e-automation/data-quality-automation/README.md",
+				"/Users/michaeldomingues/git/e2e-automation/data-quality-automation/sqler/sqlHandler.js",
+				"/Users/michaeldomingues/git/e2e-automation/data-quality-automation/sqler/connector.js",
+				"/Users/michaeldomingues/git/e2e-automation/data-quality-automation/utils/logger.js",
+				"/Users/michaeldomingues/git/e2e-automation/data-quality-automation/package.json",
+				"/Users/michaeldomingues/git/e2e-automation/specs/demoSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/sitemapPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/package.json",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/myKununuPOPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/my-kununu/userAuthenticationSpec.js",
+				"/Users/michaeldomingues/git/data-quality/sqler/connector.js",
+				"/Users/michaeldomingues/git/data-quality/sqler/sqlHandler.js",
+				"/Users/michaeldomingues/git/data-quality/index.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/company-profile/ebp-pro/validateEbpProSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/employerBrandingProfilePage.js",
+				"/Users/michaeldomingues/git/dynamodb-odm/src/Mapping/Driver/XmlSchema.xsd",
+				"/Users/michaeldomingues/git/dynamodb-odm/DataSamples/sample.xml",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/myKununuLoggedUserPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/company-profile/all-profiles/subscribeToCompanySpec.js",
+				"/Users/michaeldomingues/git/wdio_sample/confs/wdio.conf.js",
+				"/Users/michaeldomingues/git/wdio_sample/package.json",
+				"/Users/michaeldomingues/git/wdio_sample/specs/sample.js",
+				"/Users/michaeldomingues/git/wdio_sample/utils/utils.js",
+				"/Users/michaeldomingues/git/wdio_sample/makefile",
+				"/Users/michaeldomingues/git/wdio_sample/spec/sample.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/partnerJSONPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-basics/companyProfileBasics.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/miniPartnerIFramePage.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/company-profile/all-profiles/companyReviewsSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/company-profile/all-profiles/reviewCompanySpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/company-profile/ebp/validateEbpSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/company-profile/non-paid-profile/validateNonPaidProfileSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/specs/competitorsSpec.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/nonPaidProfilePage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/reviewPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/companyHashPage.js",
+				"/Users/michaeldomingues/git/e2e-automation/helpers/page-objects/companyReviewsPage.js",
+				"/Users/michaeldomingues/git/data-quality/utils/logger.js",
+				"/Users/michaeldomingues/git/data-quality/test/caller.js",
+				"/Users/michaeldomingues/git/data-quality/gulpfile.js",
+				"/Users/michaeldomingues/git/data-quality/.eslintrc",
+				"/Users/michaeldomingues/git/data-quality/package.json",
+				"/Users/michaeldomingues/git/data-quality/utils/utils.js",
+				"/Users/michaeldomingues/git/data-quality/utils/errors.js",
+				"/Users/michaeldomingues/git/data-quality/confs/mocha.opts",
+				"/Users/michaeldomingues/git/data-quality/reports/warnings.json",
+				"/Users/michaeldomingues/git/e2e-automation/specs/company-profile/all-profiles/usePartnerIFrameSpec.js",
+				"/Users/michaeldomingues/git/seo-crawler/SC_crawl_errors_v2.py"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 132.0,
+				"where_history":
+				[
+					"<project>",
+					"/Users/michaeldomingues/git/e2e-automation"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"flot",
+					"generateFinalReport",
+					"WIND_PATHS",
+					"STORM(",
+					"storm(",
+					"sorting",
+					"sorting_desc",
+					"opacity: 0.5",
+					"table.dataTable",
+					"dataTable",
+					"0.5",
+					"opacity:",
+					"and",
+					"nav-md",
+					"-collapse",
+					".nav-sm .container.body .col-md-3.left_col",
+					"nav-sm",
+					".nav-md",
+					".nav",
+					".nav.toggle",
+					"wrapper",
+					".left_col",
+					"scroll-view",
+					".left_col.scroll-view",
+					"both",
+					":after",
+					".nav:after",
+					".nav::after",
+					".nav-sm .container.body",
+					".nav-sm",
+					".col-md-3.left_col",
+					"//",
+					".col-md-3.left_col",
+					".nav-sm .container.body .col-md-3.left_col",
+					".nav-md .container.body .col-md-3.left_col",
+					"media",
+					".nav-sm .container.body .col-md-3.left_col",
+					"  .nav-sm .container.body .col-md-3.left_col",
+					"media",
+					"click",
+					".nav-md .container.body .col-md-3.left_col",
+					".nav-sm .container.body .col-md-3.left_col",
+					".nav-md .container.body .col-md-3.left_col",
+					".nav-sm .container.body .col-md-3.left_col",
+					".col-sm-3.left_col",
+					".nav-md .container.body .col-md-3.left_col",
+					".nav-sm .container.body .col-md-3.left_col",
+					".nav-md .container.body",
+					".nav-sm .container.body",
+					".nav-md .container.body",
+					".nav-md .",
+					".nav-sm .",
+					".col-sm-3.left_col",
+					".col-md-3.left_col",
+					".col-md-3 .left_col",
+					".toggle",
+					".toggle{",
+					".nav {",
+					".nav",
+					"toggle",
+					".toggled",
+					"toggle",
+					"menu_toggle",
+					"toggle",
+					".nav-md",
+					".nav",
+					".nav ",
+					".nav .toggle",
+					".toggle",
+					"toggle",
+					"onclick",
+					".fa",
+					"a {",
+					"a{",
+					"fa-bars",
+					"fa fa-bars",
+					"menu_toggle",
+					"nav-md",
+					"nav-sm",
+					"menu_toggle",
+					".nav:after",
+					".nav-sm .container.body .col-md-3.left_col",
+					".nav-md .container.body .col-md-3.left_col",
+					":after",
+					".nav",
+					".nav::after",
+					"menu_toggle",
+					".col-md-3.left_col",
+					"left_col",
+					".col-md-3.left_col",
+					"display: none",
+					"992px",
+					"768px",
+					"media",
+					"992",
+					"px",
+					"992px",
+					"left_col",
+					"992",
+					"768",
+					"tile_stats_count",
+					"Average",
+					"body {",
+					"body",
+					"13px",
+					"menu_section",
+					"menu_section:before",
+					"before",
+					"side-menu:before",
+					"before",
+					"side-menu",
+					".nav side-menu",
+					"nav side-menu",
+					"#NorteShopping > #Shopping",
+					"#Store",
+					"#Movvo",
+					"#Store",
+					"#ABC",
+					"#Store",
+					"#Movvo",
+					"#NorteShopping",
+					"#Shopping",
+					"Shopping",
+					"Store",
+					"Movvo",
+					">",
+					"getReportData",
+					"sidemenu"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/michaeldomingues/git"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2976,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2265,
+										2265
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"default_dir": "/Users/michaeldomingues/git",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1433.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 136.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 136.0
+			},
+			"pinned_build_system": "",
+			"position": "0 7 2 1440 873 0 0 1440 877 ",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"contactintermediatepage.js",
+						"e2e-automation/helpers/page-objects/contactIntermediatePage.js"
+					],
+					[
+						"contact",
+						"e2e-automation/helpers/page-objects/contactFormPage.js"
+					],
+					[
+						"infocontactformspec.js",
+						"e2e-automation/specs/contact/infoContactFormSpec.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 255.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 21,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
