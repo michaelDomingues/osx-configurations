@@ -2,6 +2,6 @@
 
 SETTINGS="${HOME}/Library/Preferences/com.googlecode.iterm2.plist"
 
-cp "${SETTINGS}" .
+cp -f "${SETTINGS}" .
 
 exit $?

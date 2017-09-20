@@ -2,4 +2,4 @@
 
 ZSHRC_SETTINGS="${HOME}/.zshrc"
 
-cp "${ZSHRC_SETTINGS}" .
+cp -f "${ZSHRC_SETTINGS}" .

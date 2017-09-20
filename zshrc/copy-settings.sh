@@ -3,7 +3,7 @@
 ZSHRC_SETTINGS="${HOME}/.zshrc"
 SETTINGS=".zshrc"
 
-cp -r "${SETTINGS}" "${ZSHRC_SETTINGS}"
+cp -fr "${SETTINGS}" "${ZSHRC_SETTINGS}"
 
 ################# POWERLINE FONTS #################
 # clone

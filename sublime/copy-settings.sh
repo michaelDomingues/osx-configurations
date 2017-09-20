@@ -3,4 +3,4 @@
 SUBLIME_SETTINGS="${HOME}/Library/Application Support/"
 SETTINGS="Sublime Text 3"
 
-cp -r "${SETTINGS}" "${SUBLIME_SETTINGS}"
+cp -fr "${SETTINGS}" "${SUBLIME_SETTINGS}"
