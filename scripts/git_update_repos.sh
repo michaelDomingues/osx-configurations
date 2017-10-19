@@ -23,8 +23,10 @@ ROOT_DIR=${1}
 
 cd ${ROOT_DIR}
 
-# Directory exists
-if [ ! -d ${ROOT_DIR} ]; then
+if [ -z ${ROOT_DIR} ]; then
+	echo "Usage: ./scripts/git_update_repos.sh <target_dir>"
+	exit 1
+elif [ ! -d ${ROOT_DIR} ]; then
 	echo "Directory does not exist!"
 	exit 1
 elif [ $(find ${ROOT_DIR} -mindepth 1 -maxdepth 1 -type d | wc -l) -eq 0 ]; then
