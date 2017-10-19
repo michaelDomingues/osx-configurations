@@ -16,6 +16,14 @@ This list will grow with time and as much as needed :)
 * Visual Studio Code
 * ZSHRC
 
+## Usage
+
+On each application diretory you can find two main scripts:
+
+`copy-settings.sh` - copies the settings file from your application to this repository, overwriting the existing one.
+
+`export-settings.sh` - restores the settings file this repository to the application settings directory, overwriting the existing one if any.
+
 # Scripts
 
 * `git_update_repos.sh` - Automatically (from origin) fetch branches and/or tags and pull all changes, from git repositories.
@@ -73,14 +81,6 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights
 and the repository exists.
 ```
-
-# Usage
-
-On each application diretory you can find two main scripts:
-
-`copy-settings.sh` - copies the settings file from your application to this repository, overwriting the existing one. 
-
-`export-settings.sh` - restores the settings file this repository to the application settings directory, overwriting the existing one if any.
 
 # Contributions
 
