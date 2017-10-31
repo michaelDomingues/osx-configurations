@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-ZSHRC_SETTINGS="${HOME}/.zshrc"
+ZSHRC_SETTINGS="${HOME}/"
 SETTINGS=".zshrc"
 
 cp -fr "${SETTINGS}" "${ZSHRC_SETTINGS}"
