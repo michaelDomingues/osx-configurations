@@ -1,4 +1,9 @@
 HookyQR.beautify
+donjayamanne.python
+lukehoban.Go
+robertohuertasm.vscode-icons
+shakram02.bash-beautify
+tht13.python
 PeterJausovec.vscode-docker
 Zignd.html-css-class-completion
 abusaidm.html-snippets
@@ -9,9 +14,14 @@ donjayamanne.githistory
 donjayamanne.python
 eg2.vscode-npm-script
 gabro.vscode-scalafmt
+huizhou.githd
 itryapitsin.Scala
 lukehoban.Go
 qinjia.view-in-browser
 robertohuertasm.vscode-icons
+shaharkazaz.git-merger
+shakram02.bash-beautify
+shinnn.stylelint
+tht13.python
 waderyan.gitblame
 xabikos.JavaScriptSnippets

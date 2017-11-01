@@ -1,5 +1,7 @@
 {
     "workbench.iconTheme": "vscode-icons",
     "workbench.startupEditor": "newUntitledFile",
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "editor.fontFamily": "Meslo LG L DZ for Powerline, Inconsolata for Powerline, Menlo, Monaco, 'Courier New', monospace",
+    "vsicons.dontShowNewVersionMessage": true
 }
